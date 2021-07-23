@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Ejemplo de test con JEST en proyecto calculator: https://github.com/ahfarmer/calculator
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
